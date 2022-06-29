@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://natootoki.github.io/fackun1/",
+  "homepage": "https://natootoki.github.io/fuckun1/",
   "eslintConfig": {
     "extends": [
       "react-app",
